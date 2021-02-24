@@ -1,5 +1,4 @@
 import com.codeborne.selenide.Configuration;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 import static com.codeborne.selenide.Selenide.open;
